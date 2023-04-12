@@ -1,6 +1,6 @@
 //your JS code here. If required.
 function fnrc(str){
-	let ans="";
+	let ans=null;
 	let object={};
 	for (let index = 0; index < str.length; index++) {
 		let currentChar=str.charAt(index);
